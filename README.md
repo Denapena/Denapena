@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Football Analytics papers or anything similar.
 - 📫 How to reach me ---> LinkedIn: www.linkedin.com/in/denis-dervishi-73b624253 or email: denisdervishi@gmail.com
 - 😄 Pronouns: he/him
+- 👨🏼‍🎓 Master's Degree in Economics
 - ⚡ Fun fact: I was born on Christmas!
 
 <!---
