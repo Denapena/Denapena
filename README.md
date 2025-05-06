@@ -5,7 +5,6 @@
 - 📫 How to reach me ---> email: denisdervishi@gmail.com
 - 🚀 Check out my Streamlit interactive portfolio here: https://denis-dervishi.streamlit.app/
 - ✍️ My blog: https://medium.com/@denisdervishi_76786
-- ⚡ Fun fact: I was born on Christmas!
 
 <!---
 Denapena/Denapena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
