@@ -2,7 +2,8 @@
 - ⚽ I’m interested in Football, Chess and Computer Science
 - 💞️ I’m looking to collaborate on Football Analytics projects or anything similar
 - 👨🏼‍🎓 Master's Degree in Economics
-- 📫 How to reach me ---> email: denisdervishi@gmail.com
+- 💌 Email: denisdervishi@gmail.com  
+- 🌐 LinkedIn: https://www.linkedin.com/in/denis-dervishi1/  
 - 🚀 Check out my Streamlit interactive portfolio here: https://denis-dervishi.streamlit.app/
 - ✍️ My blog: https://medium.com/@denisdervishi_76786
 
