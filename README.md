@@ -4,7 +4,7 @@
 - 👨🏼‍🎓 Master's Degree in Economics
 - 💌 Email: denisdervishi@gmail.com  
 - 🌐 LinkedIn: https://www.linkedin.com/in/denis-dervishi1/  
-- 🚀 Check out my Streamlit interactive portfolio here: https://denis-dervishi.streamlit.app/
+- 🚀 Portfolio: https://denis-dervishi.streamlit.app/
 - ✍️ My blog: https://medium.com/@denisdervishi_76786
 
 <!---
