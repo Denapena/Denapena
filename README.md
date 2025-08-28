@@ -3,7 +3,6 @@
 - 💞️ I’m looking to collaborate on Football Analytics projects or anything similar
 - 👨🏼‍🎓 Master's Degree in Economics
 - 🚀 Portfolio: https://denis-dervishi.streamlit.app/
-- ✍️ My blog: https://medium.com/@denisdervishi_76786
 
 <!---
 Denapena/Denapena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
